@@ -57,6 +57,8 @@ A breakdown of outlet types featuring:
 - **Supermarket Type2** demonstrates the highest average rating and sales efficiency.
 - Outlets with **low-fat items** perform comparably with regular items in specific tiers.
 
-  ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
   ![](https://github.com/BhagyaDharennavar/BlinkIt-Supply-Chain-Optimization-/blob/main/Final%20Dashboard.png)
+
+  ![Click here for Data]
   
