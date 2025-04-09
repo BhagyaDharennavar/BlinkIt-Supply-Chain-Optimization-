@@ -60,5 +60,5 @@ A breakdown of outlet types featuring:
 ## 📷 Dashboard Preview
   ![](https://github.com/BhagyaDharennavar/BlinkIt-Supply-Chain-Optimization-/blob/main/Final%20Dashboard.png)
 
-  ![Click here for Data]
+🔗 ![Click here for Data](https://github.com/BhagyaDharennavar/BlinkIt-Supply-Chain-Optimization-/blob/main/BlinkIT%20Grocery%20Data.xlsx)
   
