@@ -13,7 +13,7 @@ To design and deliver a user-friendly, interactive dashboard that empowers stake
 - Identify top-selling products and customer preferences.
 - Derive actionable insights for business decision-making.
 
-  ## ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 
 - **Power BI Desktop** – for interactive visualizations and dashboard creation.
 - **DAX (Data Analysis Expressions)** – for calculated metrics.
@@ -58,4 +58,5 @@ A breakdown of outlet types featuring:
 - Outlets with **low-fat items** perform comparably with regular items in specific tiers.
 
   ## 📷 Dashboard Preview
+  ![](https://github.com/BhagyaDharennavar/BlinkIt-Supply-Chain-Optimization-/blob/main/Final%20Dashboard.png)
   
